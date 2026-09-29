@@ -1,0 +1,13 @@
+{
+  "name": "nuxt-dev-overlay-client-compile-error",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev"
+  },
+  "dependencies": {
+    "nuxt": "npm:nuxt-nightly@4.6.0-29844781.aec739e9",
+    "vue": "^3.5.0",
+    "vue-router": "^5.0.0"
+  }
+}
